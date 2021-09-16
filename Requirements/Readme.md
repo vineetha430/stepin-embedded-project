@@ -7,7 +7,9 @@ The Seat Heating and Monitoring System is capable of maintaining the required he
 
 
 4 W's and 1'H
-  WHAT: Seat Heating And Monitoring System.
+ 
+ 
+ WHAT: Seat Heating And Monitoring System.
   WHERE: Used in Europeron Countries.
   WHEN: At very low temperatires
   WHY: For being warm and comfortable.
