@@ -1,0 +1,1 @@
+The System will check whether the person is sitted on the seat or not if person is detected then it will check whether the temperature nobe is on or not and after checking both the condition if both are true then and only then it will turn on the heater and according to perticular value it will create temperature.
