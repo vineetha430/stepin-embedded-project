@@ -11,17 +11,12 @@ The Seat Heating and Monitoring System is capable of maintaining the required he
  
  WHAT: Seat Heating And Monitoring System.
  
- 
  WHERE: Used in Europeron Countries.
- 
  
  WHEN: At very low temperatires
  
- 
  WHY: For being warm and comfortable.
  
- 
  HOW:By varying the temperature according to the requirement of the user.
- 
  
  © 2021 GitHub, Inc.
